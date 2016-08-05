@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Agenda Medica 1.0</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="enter">Turnos</string>
+    <string name="select_date">Seleccione una fecha</string>
+    <string name="new_date">Nuevo Turno</string>
+    <string name="spinner_title">Seleccionar paciente</string>
+    <string name="summary">Date Summary</string>
+    <string name="patient">Pacientes</string>
+    <string name="main">Date App</string>
+    <string name="patients">Pacientes</string>
+    <string name="new_patient">Nuevo paciente</string>
+    <string name="legajo">legajo</string>
+    <string name="patient_name">Nombre</string>
+    <string name="lastName">Apellido</string>
+</resources>
